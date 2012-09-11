@@ -1,0 +1,17 @@
+{
+    "name": "dpz/findery",
+    "description": "PHP client library for Findery.",
+    "require": {
+        "ext-curl": "0"
+    },
+    "autoload": {
+        "psr-0": {
+            "DPZ": "src/"
+        }  
+    },
+    "authors": [
+        {
+            "name": "David Wilkinson"
+        }
+    ]
+}
